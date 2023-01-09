@@ -66,4 +66,4 @@ Geoguessr is a web-based game that challenges players to find their location on 
 
 
 
-*All of these scripts are published under my online pseudonym, Han75.
+
