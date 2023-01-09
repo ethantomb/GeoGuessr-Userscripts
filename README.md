@@ -1,5 +1,5 @@
 # GeoGuessr Userscripts
-This is a compilation of the various geoguessr.com userscripts that I wrote for fun*.
+This is a compilation of the various geoguessr.com userscripts that I wrote for fun.
 ***
 ## Background
 Geoguessr is a web-based game that challenges players to find their location on a map based on clues provided by Google Street View. Players are placed in a random location on the map and must use their geography and problem-solving skills to determine where they are. The game offers a number of different modes, including a classic mode where players must find their location within a certain distance and a competitive mode where players compete to guess the closest to a location as quickly. Geoguessr is a fun and educational way to test and improve your geography skills.
